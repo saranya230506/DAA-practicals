@@ -1,16 +1,16 @@
 📘 Data Analysis and Algorithms (DAA) Lab Practicals
 
-Welcome to my Data Analysis and Algorithms (DAA) Laboratory Repository.
+Welcome to my DAA Laboratory Repository!
 
-This repository contains the practical implementations, algorithms, Jupyter Notebooks, and complexity analysis completed as part of my Data Analysis and Algorithms (DAA) laboratory course.
+This repository contains Python implementations of various algorithms, Jupyter Notebooks, practical experiments, and time and space complexity analysis completed as part of my Data Analysis and Algorithms laboratory course.
 
-👨‍🎓 Student Information
+👩‍🎓 Student Information
 Details	Information
 Name	P SARANYA
-Enrollment No.	92460118340
+Enrollment Number	92460118340
 Course	B.Tech – Artificial Intelligence & Machine Learning
 Subject	Data Analysis and Algorithms (DAA)
-💻 Software Used
+💻 Software Requirements
 Python 3.x
 Anaconda Distribution
 Jupyter Notebook
@@ -35,66 +35,71 @@ DAA-Lab-Practicals/
 ├── Practical-11-Floyd-Warshall-Algorithm/
 └── Practical-12-Travelling-Salesman-Problem/
 
-📚 Practicals
-Practical No.	Practical Name	Status
+📚 List of Practicals
+No.	Practical Name	Status
 01	Sorting Algorithms	✅ Completed
 02	Linear Search and Binary Search	✅ Completed
 03	Max-Heap Sort	✅ Completed
-04	Factorial using Iterative and Recursive Method	✅ Completed
-05	Knapsack Problem using Dynamic Programming	✅ Completed
-06	Matrix Chain Multiplication using Dynamic Programming	✅ Completed
-07	Making Change Problem using Dynamic Programming	✅ Completed
+04	Factorial using Iterative and Recursive Methods	✅ Completed
+05	Knapsack using Dynamic Programming	✅ Completed
+06	Matrix Chain Multiplication	✅ Completed
+07	Making Change Problem	✅ Completed
 08	Graph Traversal (DFS and BFS)	✅ Completed
 09	Prim's Algorithm	✅ Completed
 10	Kruskal's Algorithm	✅ Completed
 11	Floyd–Warshall Algorithm	✅ Completed
 12	Travelling Salesman Problem (TSP)	✅ Completed
-📖 Repository Features
 
-Each practical includes:
+Total Practicals: 12 | Completed: 12
 
+📖 Contents of Each Practical
+
+Each practical consists of:
+
+Aim and Objectives
+Introduction
+Algorithm and Explanation
 Python Implementation
 Jupyter Notebook (.ipynb)
-Aim and Objective
-Introduction
-Step-by-Step Algorithm
 Sample Input and Output
 Time Complexity Analysis
 Space Complexity Analysis
 Conclusion
-Well-Structured Documentation
 🎯 Learning Outcomes
 
 Through these practicals, I gained knowledge of:
 
-Sorting Algorithms
-Searching Algorithms
-Divide and Conquer
-Heap Data Structure
+Sorting and Searching Algorithms
+Divide and Conquer Techniques
+Heap Data Structures
 Recursion
 Dynamic Programming
 Graph Traversal Algorithms
 Minimum Spanning Tree Algorithms
 Shortest Path Algorithms
 Optimization Problems
-Algorithm Design and Analysis
 Time and Space Complexity Analysis
-🚀 Technologies Used
-Python
-Jupyter Notebook
-Markdown
-Git
-GitHub
-📌 Author
+🛠️ Technologies Used
+Technology	Application
+Python	Algorithm Implementation
+Jupyter Notebook	Practical Execution
+Markdown	Documentation
+Git	Version Control
+GitHub	Repository Management
+👩‍💻 Author
 
 P SARANYA
 
 B.Tech – Artificial Intelligence & Machine Learning
 
+Enrollment No: 92460118340
+
 ⭐ Acknowledgement
 
-This repository has been created as part of the Data Analysis and Algorithms (DAA) Laboratory Coursework.
+This repository has been developed as part of the Data Analysis and Algorithms (DAA) Laboratory Coursework.
 
-It is intended for educational purposes and serves as a reference for implementing fundamental algorithms in Python.
+It is intended for educational purposes and serves as a reference for understanding and implementing fundamental algorithms using Python.
 
-⭐ If you find this repository useful, consider giving it a star on GitHub!
+Thank you for visiting my repository!
+
+If you find this repository useful, please consider giving it a ⭐ on GitHub.
